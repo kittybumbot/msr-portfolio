@@ -10,7 +10,7 @@
 h1 {
   font-family: var(--font-heading);
   color: var(--accent-color);
-  margin-top: 4rem;
+  margin-top: 4.5rem;
 }
 
 h2 {
@@ -44,7 +44,7 @@ h2 {
 
 .vanessa {
   border-radius: 1rem;
-  margin-top: 4rem;
+  margin-top: 5rem;
 }
 
 .follow p {
